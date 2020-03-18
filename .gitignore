@@ -80,6 +80,7 @@ typings/
 
 # credentials - Inserido por Ricardo Capaz
 credentials/*.json
+content.json
 
 # Nuxt.js build / generate output
 .nuxt
